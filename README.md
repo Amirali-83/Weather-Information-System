@@ -25,6 +25,4 @@ Built using **Java Servlets, JSP, and Apache Tomcat**.
 - **Maven** for dependency management
 - **HTML / CSS** for front-end
 
----
 
-## 📂 Project Structure
